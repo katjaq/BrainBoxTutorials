@@ -1,6 +1,6 @@
-#BrainBox tutorials  
+# BrainBox tutorials  
 
-##How can you help?  
+## How can you help?  
 
 
 This is a project where we will be able to learn about our brain as much as about how to build comprehensive tutorials.  
@@ -13,10 +13,10 @@ The second major step will be to test these tutorials and hopefully you will lov
  
  
 Specific tutorials we would love to focus on could include:  
-    * How to check & fix automatically generated segmentations in large data sets with BrainBox  
-    * Segmentation sprint on a brain of a Dolphin with surface reconstruction  
-    * How to get data from BrainBox and analyse it using a Jupyter notebook  
-    * How to prepare your data for a BrainBox project  
+ - How to check & fix automatically generated segmentations in large data sets with BrainBox  
+ - Segmentation sprint on a brain of a Dolphin with surface reconstruction  
+ - How to get data from BrainBox and analyse it using a Jupyter notebook  
+ - How to prepare your data for a BrainBox project  
  
  
 Join us on Github and quickly introduce yourself [here :)!](https://github.com/katjaq/BrainBoxTutorials/wiki)  
