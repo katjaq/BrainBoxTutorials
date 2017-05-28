@@ -25,9 +25,10 @@ While you can see in real-time what your collaborators are writing or drawing on
 It will be a project where we will be able to learn about our brain as much as about how to build comprehensive tutorials. We target video/screencast tutorials as well as clear short write ups supported by pictures on how to do certain things.  
  
 Specific tutorials we would love to focus on could include:  
-  How to check & fix automatically generated segmentations in large data sets with BrainBox  
+ - How to check & fix automatically generated segmentations in large data sets with BrainBox  
  - Segmentation sprint of the brain of a brain of a dolphin, including the step of surface reconstruction  
  - How to get data from BrainBox and analyse it using python and the Jupyter notebook  
+ - How to prepare your data for a BrainBox project
  
  
 #### Curious?  
