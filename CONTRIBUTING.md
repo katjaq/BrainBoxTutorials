@@ -20,7 +20,7 @@ The second major step will be to test these tutorials and hopefully you will lov
  
  
  
-**Join us** on Github and quickly introduce yourself [here :)!](https://github.com/katjaq/BrainBoxTutorials/wiki)  
+**Join us** on Github and quickly introduce yourself [here :)!](https://github.com/katjaq/BrainBoxTutorials/wiki/Join-our-team!)  
 Or email us if you wish at openneurobrainbox at gmail dot com or submit an issue to our github project! We are looking forward to welcoming you! :D  
  
 All work shall be open and free and respect the Mozilla Community Participation Guidelines. Please have a look at them [here.](https://www.mozilla.org/en-US/about/governance/policies/participation)  
