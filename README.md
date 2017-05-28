@@ -32,7 +32,8 @@ Specific tutorials we would love to focus on could include:
  
 #### Curious?  
 
-More information about BrainBox can be found in our 3 min video on the OpenNeuroLab’s YouTube channel: [“Open Neuroimaging Laboratory”](https://m.youtube.com/watch?v=kwsLoVKnw24)  
+More information about BrainBox can be found in our 3 min video on the OpenNeuroLab’s YouTube channel:  
+[“Open Neuroimaging Laboratory”](https://m.youtube.com/watch?v=kwsLoVKnw24)  
 And in several smaller specific videos:  
 [“Collaborative editing of brain masks in BrainBox”](https://m.youtube.com/watch?v=bFHXS-lya5M)  
 [“Collaborative creation of brain masks in BrainBox”](https://m.youtube.com/watch?v=mN0vGpy5kFg)  
