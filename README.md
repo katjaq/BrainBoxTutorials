@@ -2,7 +2,6 @@
 
 ### How to use BrainBox for the collaborative curation of neuroimaging data  
 
-[![Join our slack channel to chat at  ](../blob/master/Slack_Mark.svg)](https://brainhack-slack-invite.herokuapp.com/) #brainboxtutorials
 
 This project aims at building special use case tutorials and refine a comprehensive documentation for our citizen science project [BrainBox](http://brainbox.pasteur.fr/). We will use BrainBox, do a segmentation sprint and build our tutorials while we work :) Come and teach us how to teach BrainBox!  
  
@@ -31,7 +30,7 @@ Specific tutorials we would love to focus on could include:
  - How to get data from BrainBox and analyse it using python and the Jupyter notebook  
  
  
-##### Curious?  
+#### Curious?  
 
 More information about BrainBox can be found in our 3 min video on the OpenNeuroLab’s YouTube channel: [“Open Neuroimaging Laboratory”](https://m.youtube.com/watch?v=kwsLoVKnw24)  
 And in several smaller specific videos:  
@@ -39,11 +38,11 @@ And in several smaller specific videos:
 [“Collaborative creation of brain masks in BrainBox”](https://m.youtube.com/watch?v=mN0vGpy5kFg)  
  
  
-##### Join us!  
+#### Join us!  
 
 We hope to be part of the [mozsprint](https://mozilla.github.io/global-sprint/projects/), the global Mozilla sprint 2017! (currently applying) You can join us in person at the Institut Pasteur, Paris, on Github, or on our [slack channel](https://brainhack-slack-invite.herokuapp.com/) #brainboxtutorials. You can also e-mail us to get in touch at openneurobrainbox at gmail dot com!  
-
-
+ 
+ 
 
 **We are looking forward to meeting you! :)**  
 
