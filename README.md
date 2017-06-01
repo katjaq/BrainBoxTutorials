@@ -42,7 +42,7 @@ And in several smaller specific videos:
  
 #### Join us!  
 
-We hope to be part of the [mozsprint](https://mozilla.github.io/global-sprint/projects/), the global Mozilla sprint 2017! (currently applying) You can join us in person at the Institut Pasteur, Paris, on Github, or on our [slack channel](https://brainhack-slack-invite.herokuapp.com/) #brainboxtutorials. You can also e-mail us to get in touch at openneurobrainbox at gmail dot com!  
+Join our project on github any time :) and join us also for the [mozsprint](https://github.com/mozilla/global-sprint/issues/119) – the global Mozilla sprint – June 1 & 2 2017! You can join us in person at the Institut Pasteur, Paris, on Github, or on our [slack channel](https://brainhack-slack-invite.herokuapp.com/) #brainboxtutorials. You can also e-mail us to get in touch at openneurobrainbox at gmail dot com!  
  
  
 
